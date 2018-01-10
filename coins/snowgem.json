@@ -2,7 +2,7 @@
     "name": "snowgem",
     "symbol": "sng",
     "algorithm": "equihash",
-
+    "requireShielding": true,
     "payFoundersReward": true,
     "percentFoundersReward": 5,
     "maxFoundersRewardBlockHeight": 2106399,
