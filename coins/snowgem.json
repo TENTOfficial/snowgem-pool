@@ -1,6 +1,6 @@
 {
     "name": "snowgem",
-    "symbol": "sng",
+    "symbol": "xsg",
     "algorithm": "equihash",
     "requireShielding": true,
     "payFoundersReward": true,
