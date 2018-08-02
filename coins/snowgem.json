@@ -6,7 +6,7 @@
     "payFoundersReward": true,
     "percentFoundersReward": 5,
     "maxFoundersRewardBlockHeight": 2106399,
-    "foundersRewardAddressChangeInterval": 105320.95,
+    "foundersRewardAddressChangeInterval": 105320,
     "parameters": {
         "N": 144,
         "K": 5,
